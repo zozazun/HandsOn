@@ -1,2 +1,10 @@
 = TEST
-* [red]#hoge#hoge
+
+* [red]#hoge# hoge
+* [yellow]#hoge# hoge
+* [green]#hoge# hoge
+* [aqua]#hoge# hoge
+* [blue]#hoge# hoge
+* [navy]#hoge# hoge
+
+* [font_color: red]#hoge# hoge
